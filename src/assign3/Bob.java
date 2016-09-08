@@ -1,5 +1,7 @@
 package assign3;
 
+//Written by: Lifeng
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
